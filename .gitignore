@@ -1,3 +1,5 @@
+node_modules/
+orders-data.json
 .DS_Store
 Thumbs.db
 *.log
